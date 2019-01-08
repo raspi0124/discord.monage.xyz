@@ -1,0 +1,51 @@
+html {
+    height: 100%;
+    font-family: "Noto Sans Japanese";
+}
+
+body {
+    font-family: "Noto Sans Japanese";
+    height: 100%;
+    margin: 0;
+}
+
+.fullheight-01 {
+    min-height: 100%;
+    background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+}
+
+.fullheight-02 {
+    height: auto;
+    background-color: #4834d4;
+}
+
+.fullheight-03 {
+    height: auto;
+}
+
+.fullheight-04 {
+    height: auto;
+}
+
+.btn {
+    border-radius: 5em;
+}
+
+.discord-dl {
+    margin-top: 8em;
+    margin-bottom: 8em;
+}
+
+.share {
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.feature-icon {
+    color:#4834d4;
+}
+
+.info {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
