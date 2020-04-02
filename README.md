@@ -1,2 +1,3 @@
-# monage.tokyo
-Monage.tokyo
+# discord.monage.xyz
+discord.monage.xyz
+https://discord.monage.xyz/
